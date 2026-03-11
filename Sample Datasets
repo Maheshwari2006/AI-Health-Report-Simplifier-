@@ -12,3 +12,21 @@ P009,Vikram Iyer,48,Male,10.5,11500,190000,160,260,150/96,High
 P010,Pooja Nair,26,Female,13.9,6800,265000,85,165,118/75,Normal
 
 
+2. Patient_Profile_Sample.csv
+Patient_ID,Name,Age,Gender,Weight_kg,Height_cm,Medical_History
+P001,Rahul Sharma,34,Male,72,175,None
+P002,Priya Verma,45,Female,68,162,Diabetes
+P003,Amit Patel,29,Male,70,178,None
+P004,Sneha Joshi,52,Female,75,160,Hypertension
+P005,Rohit Gupta,40,Male,82,174,High Cholesterol
+P006,Neha Singh,31,Female,60,165,None 
+
+
+3.symptoms_dataset.csv
+Symptom,Possible_Disease,Advice
+Fever,Flu,Drink fluids and rest
+Chest Pain,Heart Disease,Consult cardiologist immediately
+High Blood Sugar,Diabetes,Reduce sugar intake and consult doctor
+Low Hemoglobin,Anemia,Increase iron-rich foods
+High Cholesterol,Heart Risk,Exercise and reduce fatty foods
+Headache,Migraine,Rest and hydration
