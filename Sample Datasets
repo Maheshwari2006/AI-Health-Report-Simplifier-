@@ -1,0 +1,14 @@
+1. Health_Report_Sample.csv
+Patient_ID,Name,Age,Gender,Hemoglobin,WBC_Count,Platelets,Blood_Sugar,Cholesterol,Blood_Pressure,Risk_Level
+P001,Rahul Sharma,34,Male,13.5,7200,250000,95,180,120/80,Normal
+P002,Priya Verma,45,Female,10.8,11000,200000,140,230,140/90,High
+P003,Amit Patel,29,Male,14.2,6500,270000,88,170,118/76,Normal
+P004,Sneha Joshi,52,Female,9.5,12000,180000,165,250,150/95,High
+P005,Rohit Gupta,40,Male,12.5,8000,260000,110,210,130/85,Medium
+P006,Neha Singh,31,Female,13.1,7000,240000,92,175,120/78,Normal
+P007,Karan Mehta,55,Male,11.0,10500,210000,150,240,145/92,High
+P008,Anjali Desai,37,Female,12.8,7600,255000,100,195,122/80,Normal
+P009,Vikram Iyer,48,Male,10.5,11500,190000,160,260,150/96,High
+P010,Pooja Nair,26,Female,13.9,6800,265000,85,165,118/75,Normal
+
+
