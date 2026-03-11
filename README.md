@@ -9,7 +9,7 @@ An AI-powered healthcare assistant that analyzes medical reports and converts co
 ✔ Upload **PDF medical reports**  
 ✔ Upload **image reports using OCR**  
 ✔ Convert **medical terms to simple language**  
-✔ **Hindi and Marathi translation**  
+✔ ** English , Hindi and Marathi translation**  
 ✔ **Disease risk prediction**  
 ✔ **Smart medical advice**  
 ✔ **Patient profile + BMI analysis**
