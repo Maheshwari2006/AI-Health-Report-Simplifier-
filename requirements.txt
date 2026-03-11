@@ -1,0 +1,12 @@
+streamlit
+pdfplumber
+pytesseract
+pillow
+googletrans==4.0.0-rc1
+
+#Python-Libraries used : 
+pandas
+plotly
+pyttsx3
+scikit-learn
+
